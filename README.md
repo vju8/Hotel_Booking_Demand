@@ -1,5 +1,5 @@
 **Project name:**  
-Hotel Booking Demand
+Hotel Booking Demand Analysis
 
 **Project Description:**  
 The hotel booking is an interesting topic when it comes to data analytics. The hotel chains gather and store a multitude of data 
